@@ -340,7 +340,7 @@ color: rgba(7, 2, 17, 0.6);
   text-align: left;
   margin-bottom: 16px;
 }
-#awesome-portfolio h1{
+.header1{
   color: rgb(7, 2, 17);
     font-family: "Merriweather";
     font-size: 48px;
@@ -351,7 +351,7 @@ color: rgba(7, 2, 17, 0.6);
     text-transform: capitalize;
     margin-bottom: 22px;
 }
-#awesome-portfolio p{
+.paragraph1{
   color: rgba(7, 2, 17, 0.6);
     font-family: "Inter";
     font-size: 20px;
@@ -410,4 +410,16 @@ color: rgba(7, 2, 17, 0.6);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+#news-letter{
+  border-radius: 16px;
+  background: rgba(255, 0, 0, 0.05);
+  height: 616px;
+}
+.news-letter-text{
+  display: flex;
+  flex-direction: column;
+}
+.news-letter-text img{
+  position: absolute;
 }

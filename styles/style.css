@@ -423,3 +423,12 @@ color: rgba(7, 2, 17, 0.6);
 .news-letter-text img{
   position: absolute;
 }
+footer{
+  background: rgb(7, 2, 17);
+  width: 100%;
+  height: 609px;
+  margin: 0px auto;
+}
+.row{
+  width: 100%;
+}

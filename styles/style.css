@@ -362,4 +362,52 @@ color: rgba(7, 2, 17, 0.6);
 }
 .text-container{
   width: 896px;
+  margin-bottom: 48px;
+}
+.div-container .img-container{
+    width: 424px;
+    height: 450px;
+    border-radius: 16px;
+}
+.div-container{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+.portfolio-bg1{
+  background-image: url("/images/Rectangle 3.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.portfolio-bg2{
+  background-image: url("/images/Rectangle 4.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.portfolio-bg3{
+  background-image: url("/images/Rectangle 5.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.portfolio-bg4{
+  background-image: url("/images/Rectangle 6.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.portfolio-bg5{
+  background-image: url("/images/Rectangle 7.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.portfolio-bg6{
+  background-image: url("/images/Rectangle 8.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
